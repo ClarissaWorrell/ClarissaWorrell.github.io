@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Clarissa Worrell Portfolio
 
-You can use the [editor on GitHub](https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+// what this is and the purpose 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Profession Self-assessment
 
-### Markdown
+// Professional review
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Code Review
 
-```markdown
-Syntax highlighted code block
+// breif explination of code review
+// Add youtube video
 
-# Header 1
-## Header 2
-### Header 3
+### Software Engineering and design Artifact
 
-- Bulleted
-- List
+// Breif description
+// link to artifact page
+Artifact one
 
-1. Numbered
-2. List
+### Algorithms and Data Structures Artifact
 
-**Bold** and _Italic_ and `Code` text
+// Breif description
+// link to artifact page
+Artifact two
 
-[Link](url) and ![Image](src)
-```
+### Databases Artifact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+// Breif description
+// link to artifact page
+Artifact three
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
