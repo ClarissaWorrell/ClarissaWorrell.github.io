@@ -17,16 +17,22 @@
 // link to artifact page
 Artifact one
 
+[Click here to view more details](https://clarissaworrell.github.io/ArtifactOne)
+
 ### Algorithms and Data Structures Artifact
 
 // Breif description
 // link to artifact page
 Artifact two
 
+[Click here to view more details](https://clarissaworrell.github.io/ArtifactTwo)
+
 ### Databases Artifact
 
 // Breif description
 // link to artifact page
 Artifact three
+
+[Click here to view more details](https://clarissaworrell.github.io/ArtifactThree)
 
 
