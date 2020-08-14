@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
-title: Artifact One
-filename: ArtifactOne.md
-permalink: https://clarissaworrell.github.io/ArtifactOne
+# Software Engineering and Design
+
+// Photo or video of artifact 
+
+// - what was improved 
+
+// narrative 
