@@ -15,26 +15,50 @@
 
 ### Software Engineering and design Artifact
 
-// Breif description
-// link to artifact page
-Artifact one
+Major Skills learned 
 
-[Click here to view more details](https://clarissaworrell.github.io/ArtifactOne)
+- sample 
+
+- sample 
+
+- sample 
+
+- sample
+
+// description
+
+[Click here to view enhancements](https://clarissaworrell.github.io/ArtifactOne)
 
 ### Algorithms and Data Structures Artifact
 
-// Breif description
-// link to artifact page
-Artifact two
+Major Skills learned 
 
-[Click here to view more details](https://clarissaworrell.github.io/ArtifactTwo)
+- Converting images to and from byte arrays into Bitmap to insert them into the SQLite database and then convert back to display to user 
+
+- sample
+
+- Adding data from SQLite recyclerview into lists
+
+- Creating a hashmap with lists
+
+// description
+
+[Click here to view enhancements](https://clarissaworrell.github.io/ArtifactTwo)
 
 ### Databases Artifact
 
-// Breif description
-// link to artifact page
-Artifact three
+Major Skills learned 
 
-[Click here to view more details](https://clarissaworrell.github.io/ArtifactThree)
+- Implementing the FirebaseAPI for authentication and real-time database 
+
+- Creating, writing and reading from JSON database
+
+- Retrieving JSON data and formatting it into a recycler view????
+
+- Adding Photos to SQL database using BLOB
+
+// description
+
+[Click here to view enhancements](https://clarissaworrell.github.io/ArtifactThree)
 
 
