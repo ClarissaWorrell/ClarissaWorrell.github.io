@@ -1,7 +1,21 @@
-# Software Engineering and Design
+# Artifact One - Software Engineering and Design 
 
-// Photo or video of artifact 
+// About artifact selection 
 
-// - what was improved 
+### Showcased Skills
 
-// narrative 
+- Created UX and UI designs
+
+- Survey Monkey SDK
+
+// Video of app
+
+Demonstration of the updated app
+
+### Enhancements 
+
+- Sample
+
+// reflection
+
+[Back](https://clarissaworrell.github.io/)
