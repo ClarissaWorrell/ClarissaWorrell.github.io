@@ -14,9 +14,9 @@ The artifact for the algorithms and data structures category is the same android
 
 - Algorithms
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/lvSkIw2MLGM" frameborder="0" allowfullscreen></iframe>
+### Demonstration of the algorithm and data structure features of the app
 
-Demonstration of the functionality of the algorithm and data structure features of the app
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lvSkIw2MLGM" frameborder="0" allowfullscreen></iframe>
 
 ### Enhancements 
 
