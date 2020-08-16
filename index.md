@@ -38,7 +38,7 @@ Skills learned
 
 - Creating a hashmap with lists
 
-// description
+The second artifact creates the necessary data structures to store data from databases and insert data into the databases. It also updates the menu and order displays to be more functional and easier to read. A quantity button was added with constraints so that the user can’t enter invalid input. This decrease security risks. A class was created to map the data from current order into a hash map so it could be inserted into the database and create the methods needed to get the same data when an order was retrieved from Firebase.
 
 [Click here to view artifact details](https://clarissaworrell.github.io/ArtifactTwo)
 
@@ -54,7 +54,7 @@ Skills learned
 
 - Adding Photos to SQL database using BLOB
 
-The last artifact adds complexity to the SQLite Menu database and implements the Firebase authentication and database APIs. Adding photos of items to the menu allows for easily linking the correct photo to each item and frees up storage space on the device. Using the Firebase NoSQL database to store user accounts and past orders works with the Firebase authentication to only allow verified users to access the database. The current order are added under the correct user in firebase and then accessed later to display them in a nested recycler view.
+The last artifact adds complexity to the SQLite Menu database and implements the Firebase authentication and database APIs. Adding photos of items to the menu allows for easily linking the correct photo to each item and frees up storage space on the device. Using the Firebase NoSQL database to store user accounts and past orders works with the Firebase authentication to only allow verified users to access the database. The current orders are added under the correct user in firebase and then accessed later to display them in a nested recycler view.
 
 [Click here to view artifact details](https://clarissaworrell.github.io/ArtifactThree)
 
