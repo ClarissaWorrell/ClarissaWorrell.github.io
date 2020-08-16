@@ -8,9 +8,9 @@ My name is Clarissa Worrell, I am a student passionate about technology and maki
 
 ### Code Review
 
-This is a through code review completed before making enhancements to the app. It showcases how the app originally worked, discusses problems with the program, and improvements to be made.
+This is a thorough code review completed before making enhancements to the app. It showcases how the app originally worked, discusses problems with the program, and improvements to be made.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/lvSkIw2MLGM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://youtu.be/LYBB8XvHNtk" frameborder="0" allowfullscreen></iframe>
 
 ### Software Engineering and design Artifact
 
