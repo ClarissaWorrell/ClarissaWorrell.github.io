@@ -1,6 +1,6 @@
 # Artifact Two - Algorithms and Data Structures 
 
-The artifact for the algorithms and data structures category is the same android app used in all of the artifacts. The app is for a fake local coffee shop business. It was initially created in a previous course at Southern New Hampshire University. I chose this artifact because mobile app development is something that I am passionate about and I knew it would allow me to demonstrate the skills I already had, along with providing many opportunities to learn new skills. The ordering system is the main feature that allowed me to showcase my abilities in algorithms and design. The process of displaying the data along with pass data from one class to another involved algorithms. This artifact is very intertwined with the databases artifact as many of the data structures were implemented to store data from the databases or insert data into them. 
+The artifact selected for the algorithms and data structures category is the same android app used in all of the artifacts. The app is for a fake local coffee shop business. It was initially created in a previous course at Southern New Hampshire University. I chose this artifact because mobile app development is something that I am passionate about and I knew it would allow me to demonstrate the skills I already had, along with providing many opportunities to learn new skills. The ordering system is the main feature that allowed me to showcase my abilities in algorithms and design. The process of displaying the data along with pass data from one class to another involved algorithms. This artifact is very intertwined with the databases artifact as many of the data structures were implemented to store data from the databases or insert data into them. 
 
 ### Showcased Skills
 
@@ -24,7 +24,7 @@ The artifact for the algorithms and data structures category is the same android
 
 - Converted photos to byte array from bitmap to insert them into the SQL database, converted back to bitmap when retrived
 
-- Add quanitiy options with constraints to the menu for each item using plus and minus buttons so that the user can't enter invaild input
+- Added quanitiy options with constraints to the menu for each item using plus and minus buttons so that the user can't enter invaild input
 
 - Checks for existance of an item in the current order database and then either adds a new item or updates the quantity of an existing item
 
