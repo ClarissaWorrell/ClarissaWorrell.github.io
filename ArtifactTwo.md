@@ -20,7 +20,7 @@ The artifact selected for the algorithms and data structures category is the sam
 
 <img src="https://clarissaworrell.github.io/Byte%20array%20and%20Bitmap.png">
 
-<img src="https://clarissaworrell.github.io/Order%20item%20lists.png" height="200" width="670">
+<img src="https://clarissaworrell.github.io/Order%20item%20lists.png" height="150" width="680">
 
 <img src="https://clarissaworrell.github.io/Display%20total.png" height="320" width="420">
 
