@@ -14,7 +14,7 @@ The artifact selected for the databases category is an Android app for a fake lo
 
 ### Demonstration of the database features of the app
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/LYBB8XvHNtk" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ppYFe-1zIxc" frameborder="0" allowfullscreen></iframe>
 
 ### Enhancements 
 
@@ -40,6 +40,6 @@ When developing the database features, I learned how to store and retrieve photo
 
 I struggled the most with understanding how to structure the database so that I could insert the order data and retrieve it to be displayed. After reading Firebase documentation, I decided to use the .push() function included in the Firebase API so that a new child was automatically created for each order, with them being ordered by when they were inserted. This allowed me to retrieve each order later. It was also challenging for me to figure out how to retrieve the lists of items, quantities, and subtotals from each order and displaying them in a nested recycler view. After retrieving and order from the database, it was added to the order model to extract the specific data from it. From there, I couldn’t get the lists of item names, quantities, and subtotals to display in the nested recycler view. I had to create lists in the activity displaying the parent recycler view to store the lists from the order model so that I could pass them to the nested recycler view.
 
-[***Source Code for Android App***](https://clarissaworrell.github.io/ArtifactThree)
+[***Source Code for Android App***](https://github.com/ClarissaWorrell/LocalCoffee)
 
 [Back](https://clarissaworrell.github.io/)
