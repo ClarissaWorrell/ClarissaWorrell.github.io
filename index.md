@@ -64,6 +64,6 @@ The last artifact adds complexity to the SQLite Menu database and implements the
 
 [Click here to view artifact details](https://clarissaworrell.github.io/ArtifactThree)
 
-[***Source Code for Android App***](https://clarissaworrell.github.io/ArtifactThree)
+[***Source Code for Android App***](https://github.com/ClarissaWorrell/LocalCoffee)
 
 
