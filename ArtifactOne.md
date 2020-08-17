@@ -42,6 +42,6 @@ The enhancements for the software engineering and design category continued thro
 
 I struggled to implement the Survey Monkey API because the documentation for Android implementation is limited. The documentation only shows one way to implement it, so I had to do testing to get it to work properly. I found it challenging to design a cohesive and visually pleasing app because app design can be very interpretive, so I will always be learning. Trends constantly change, and understanding how to use XML to achieve those looks in the most efficient way possible is something that I have been learning about. I made many improvements to this area of the app, but I think the user interfaces could still be improved more to make the app look more professional and engaging. 
 
-[***Source Code for Android App***](https://clarissaworrell.github.io/ArtifactThree)
+[***Source Code for Android App***](https://github.com/ClarissaWorrell/LocalCoffee)
 
 [Back](https://clarissaworrell.github.io/)
