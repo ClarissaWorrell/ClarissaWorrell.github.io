@@ -16,13 +16,13 @@ The artifact selected for the algorithms and data structures category is the sam
 
 ### Examples of the data structure and algorithms implemented
 
-<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/blob/master/Order%20Model.png" height="550" width="600"></a>
+<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/Order%20Model.png" height="550" width="600">
 
-<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/blob/master/Byte%20array%20and%20Bitmap.png"></a>
+<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/Byte%20array%20and%20Bitmap.png">
 
-<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/blob/master/Order%20item%20lists.png" height="200" width="670"></a>
+<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/Order%20item%20lists.png" height="200" width="670">
 
-<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/blob/master/Display%20total.png" height="320" width="420" ></a>
+<img src="https://github.com/ClarissaWorrell/ClarissaWorrell.github.io/Display%20total.png" height="320" width="420">
 
 
 ### Enhancements 
