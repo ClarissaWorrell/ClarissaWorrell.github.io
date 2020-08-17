@@ -53,6 +53,6 @@ The biggest challenge I faced was deciding how to store the photos for the menu 
 
 Reference: SQLite. (2017, June 05). 35% Faster Than the Filesystem. Retrieved from https://www.sqlite.org/fasterthanfs.html
 
-[***Source Code for Android App***](https://clarissaworrell.github.io/ArtifactThree)
+[***Source Code for Android App***](https://github.com/ClarissaWorrell/LocalCoffee)
 
 [Back](https://clarissaworrell.github.io/)
